@@ -5,6 +5,7 @@
 
 ## 🧭 About Me
 
+
 I am a Computer Science student at the *Institute of Space Technology (IST), Islamabad, with a strong interest in Artificial Intelligence, C++, Web Development, Software Development, and Graphic Designing
 
 I enjoy learning new technologies, solving programming problems, and building practical projects that strengthen my technical skills.
@@ -15,6 +16,8 @@ I enjoy learning new technologies, solving programming problems, and building pr
 🎓 Degree: BS Computer Science
 📅 Duration: 2024 – 2028
 🏫 Institute: Institute of Space Technology (IST), Islamabad
+
+
 
 💡 Interests:
   - 🤖 Artificial Intelligence
@@ -33,7 +36,12 @@ I enjoy learning new technologies, solving programming problems, and building pr
 🎨 Exploring Graphic Designing and UI/UX
 📚 Continuously learning and improving my technical skills
 🛠️ Technical Skills
+
+
 💻 Languages & Technologies
+
+
+
 🌐 HTML5
 🎨 CSS3
 ⚡ JavaScript
@@ -42,7 +50,11 @@ I enjoy learning new technologies, solving programming problems, and building pr
 🔧 Assembly
 🗄️ SQL
 🏢 Oracle
+
+
 🔧 Tools & Platforms
+
+
 💻 Visual Studio Code
 🔀 Git
 🐙 GitHub
@@ -51,18 +63,35 @@ I enjoy learning new technologies, solving programming problems, and building pr
 🔬 Spyder
 
 🎓 Education
+
 🏫 BS Computer Science
 Institute of Space Technology (IST), Islamabad
 📅 2024 – 2028
+
+
+
 🚀 Projects
+
 🏦 Banking System
+
 A C++ based banking application developed to practice Object-Oriented Programming, programming logic, and basic banking operations.
+
+
 🔐 Login & Registration System
+
 A user authentication project implementing registration and login functionality while practicing programming fundamentals and data handling.
+
+
 🧩 Sudoku Solver
+
 An algorithm-based project that solves Sudoku puzzles using logical problem-solving and programming techniques.
+
+
 📊 CGPA Calculator
+
 A C++ application designed to calculate GPA/CGPA based on course grades and credit hours.
+
+
 🎯 Career Goals
 🤖 Develop a strong foundation in Artificial Intelligence and Machine Learning
 💙 Master C++, OOP, Data Structures & Algorithms
@@ -74,12 +103,20 @@ A C++ application designed to calculate GPA/CGPA based on course grades and cred
 🚀 Gain practical industry experience through internships and real-world projects
 📚 Continuously learn and adapt to emerging technologies
 🎯 Build a successful career in Software Development and Artificial Intelligence
+
 🤝 Let's Connect
+
+
 I am always open to learning, collaboration, and new opportunities.
+
+
 🔗 LinkedIn Profile:
+
 https://www.linkedin.com/in/laraib-zahoor-a2b87640a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
+
 📧 Email Me:
+
 laraibzahoor00@gmail.com
 
 ✨ Thank you for visiting my profile!
