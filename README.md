@@ -11,11 +11,16 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 
 name:       Laraib Zahoor
+
 role:       Computer Science Student
+
 degree:     BS Computer Science (2024 – 2028)
+
 institute:  Institute of Space Technology (IST), Islamabad
+
 interests:  Artificial Intelligence, Python, C++, Web Development,
              Software Development, Graphic Designing
+
 
 status:     Open to internships, collaborations & learning opportunities ✨
 
