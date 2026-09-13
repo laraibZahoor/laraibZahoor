@@ -1,9 +1,8 @@
-Hi I'm Laraib Zahoor 👋
+# Hi, I'm Laraib Zahoor 👋
 
 💻 Computer Science Student | 🤖 AI & C++ Enthusiast | 🌐 Web Developer
 
----
-
+2️⃣ About Me
 ## 🧭 About Me
 
 I am a Computer Science student at the **Institute of Space Technology (IST), Islamabad**, with a strong interest in **Artificial Intelligence, C++, Web Development, Software Development, and Graphic Designing**.
@@ -16,9 +15,13 @@ role:       Computer Science Student
 degree:     BS Computer Science (2024 – 2028)
 institute:  Institute of Space Technology (IST), Islamabad
 interests:  Artificial Intelligence, Python, C++, Web Development,
-             Software Development, Graphic Designing.
-             
+             Software Development, Graphic Designing
+
 status:     Open to internships, collaborations & learning opportunities ✨
+
+
+
+
 
 🎓 Currently pursuing BS Computer Science at IST, Islamabad
 
@@ -34,41 +37,92 @@ status:     Open to internships, collaborations & learning opportunities ✨
 
 🌱 Always learning, improving, and exploring new technologies
 
-🛠️ Technical Skills
-💻 Languages & Technologies
-HTML5 CSS3 JavaScript C++ Python Assembly SQL Oracle
 
-🔧 Tools & Platforms
-Visual Studio Code Git GitHub Photoshop Anaconda Spyder
+###  Technical Skills
 
-🎓 Education
-🏫 BS Computer Science
+```markdown
+## 🛠️ Technical Skills
+
+### 💻 Languages & Technologies
+
+HTML5  
+CSS  
+JavaScript  
+C++  
+Python  
+Assembly  
+SQL  
+Oracle  
+
+### 🔧 Tools & Platforms
+
+Visual Studio Code  
+Git  
+GitHub  
+Photoshop  
+Anaconda  
+Spyder
+
+
+
+ GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laraibZahoor&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibZahoor&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibZahoor&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+
+ Education
+## 🎓 Education
+
+🏫 **BS Computer Science**  
 Institute of Space Technology (IST), Islamabad
 
 📅 2024 – 2028
 
-🚀 Projects
-🏦 Banking System
-C++ · OOP
+
+ Projects — Part 1
+## 🚀 Projects
+
+### 🏦 Banking System
+
+**C++ · OOP**
 
 A C++ based banking application developed to practice Object-Oriented Programming, programming logic, and basic banking operations.
 
-🔐 Login & Registration System
-C++ · Programming Fundamentals
+### 🔐 Login & Registration System
+
+**C++ · Programming Fundamentals**
 
 A user authentication project implementing registration and login functionality while practicing programming fundamentals and data handling.
 
-🧩 Sudoku Solver
-C++ · Algorithms · Problem Solving
+
+ Projects — Part 2
+### 🧩 Sudoku Solver
+
+**C++ · Algorithms · Problem Solving**
 
 An algorithm-based project that solves Sudoku puzzles using logical problem-solving techniques and programming concepts.
 
-📊 CGPA Calculator
-C++ · Programming Fundamentals
+
+### 📊 CGPA Calculator
+
+**C++ · Programming Fundamentals**
 
 A C++ application designed to calculate GPA/CGPA based on course grades and credit hours, providing a practical implementation of programming logic.
 
-🎯 Career Goals
+
+ Career Goals
+## 🎯 Career Goals
+
 🤖 Develop a strong foundation in Artificial Intelligence and Machine Learning
 
 💙 Master C++, OOP, Data Structures & Algorithms
@@ -89,15 +143,17 @@ A C++ application designed to calculate GPA/CGPA based on course grades and cred
 
 🎯 Build a successful career in Software Development and Artificial Intelligence
 
-⭐ Let's Connect
+
+
+ Let's Connect
+## ⭐ Let's Connect
+
 I am always open to learning, collaboration, and new opportunities.
 
-📧 Email:
-laraibzahoor00@gmail.com
+📧 **Email:** laraibzahoor00@gmail.com
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/laraib-zahoor-a2b87640a
+🔗 **LinkedIn:** https://www.linkedin.com/in/laraib-zahoor-a2b87640a
 
-✨ Thank You for Visiting My Profile!
+✨ **Thank You for Visiting My Profile!**
+
 💻 Learn • Build • Create • Grow 🚀
-
