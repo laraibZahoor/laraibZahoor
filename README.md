@@ -136,10 +136,12 @@ A C++ application designed to calculate GPA/CGPA based on course grades and cred
 
 
 
- Let's Connect
-## ⭐ Let's Connect
 
-I am always open to learning, collaboration, and new opportunities.
+
+
+
+ Let's Connect
+
 
 📧 Email: laraibzahoor00@gmail.com
 
