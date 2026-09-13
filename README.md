@@ -2,7 +2,7 @@
 
 💻 Computer Science Student | 🤖 AI & C++ Enthusiast | 🌐 Web Developer
 
-2️⃣ About Me
+ About Me
 ## 🧭 About Me
 
 I am a Computer Science student at the **Institute of Space Technology (IST), Islamabad**, with a strong interest in **Artificial Intelligence, C++, Web Development, Software Development, and Graphic Designing**.
