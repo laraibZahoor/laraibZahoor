@@ -143,10 +143,15 @@ A C++ application designed to calculate GPA/CGPA based on course grades and cred
  Let's Connect
 
 
-📧 Email: laraibzahoor00@gmail.com
+📧 Email:
+
+laraibzahoor00@gmail.com
 
 
-🔗 LinkedIn: https://www.linkedin.com/in/laraib-zahoor-a2b87640a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔗 LinkedIn:
+
+https://www.linkedin.com/in/laraib-zahoor-a2b87640a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 
 
 ✨ Thank You for Visiting My Profile!
